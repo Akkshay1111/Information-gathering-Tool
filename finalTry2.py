@@ -325,7 +325,7 @@ elif ak ==4:
 #     blipfm = f'https://blip.fm/{username}'
 
 # # WIKIPEDIA
-     wikipedia = f'https://www.wikipedia.org/wiki/User:{username}'
+    # wikipedia = f'https://www.wikipedia.org/wiki/User:{username}'
 
 # HACKERNEWS
     hackernews = f'https://news.ycombinator.com/user?id={username}'
