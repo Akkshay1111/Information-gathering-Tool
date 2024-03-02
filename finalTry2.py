@@ -46,7 +46,7 @@ print(cyan+"\nAll Copy Right Reserved |******")
 print(red+"\n BY -- Akshay Bhardwaj\n\n")
 print("\nA Project ")
 #print(cyan+"\nUnder the guidance of Shivam sir")
-print(blue+""" +-+-+-+-+-+ +-+-+-+-+-+-+-+
+print(y+""" +-+-+-+-+-+ +-+-+-+-+-+-+-+
                |I|G|N|O|U| |P|r|o|j|e|c|t|
                +-+-+-+-+-+ +-+-+-+-+-+-+-+  
       """)
