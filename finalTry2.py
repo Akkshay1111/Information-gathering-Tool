@@ -365,7 +365,7 @@ elif ak ==4:
 #     colourlovers = f'https://www.colourlovers.com/love/{username}'
 
 # # IFTTT
-     ifttt = f'https://www.ifttt.com/p/{username}'
+    # ifttt = f'https://www.ifttt.com/p/{username}'
 
 # # EBAY
 #     ebay = f'https://www.ebay.com/usr/{username}'
